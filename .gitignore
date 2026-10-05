@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 .fleetbase-dev-links.json
-.env
 .env.backup
 .phpunit.result.cache
 .pnpm-store
@@ -39,3 +38,4 @@ builds/osx/frankenphp
 *.dll
 *.so
 *.dylib
+config.bat
